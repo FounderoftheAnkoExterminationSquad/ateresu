@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>アテレス｜外来生物対策委員会</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, sans-serif;
+      background: #f5f7fa;
+      color: #222;
+    }
+    header {
+      background: #1f3c88;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+    }
+    h2 {
+      border-left: 5px solid #1f3c88;
+      padding-left: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>アテレス</h1>
+  <p>外来生物対策委員会</p>
+</header>
+
+<section>
+  <h2>組織概要</h2>
+  <p>
+    アテレスは、外来生物による生態系への影響を抑制し、
+    在来環境の保全を目的とした対策組織です。
+  </p>
+</section>
+
+<section>
+  <h2>主な活動</h2>
+  <ul>
+    <li>外来生物の調査・監視</li>
+    <li>計画的な駆除・管理</li>
+    <li>地域との連携・啓発活動</li>
+  </ul>
+</section>
+
+<footer>
+  © ATERES
+</footer>
+
+</body>
+</html>
